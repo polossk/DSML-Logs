@@ -2,7 +2,7 @@
 
 Team GaoSi CaoPan GouZhuang of Huawei CodeCraft 2018
 
-*cooperated with (@haokaka)[<https://github.com/haokaka>]*
+*cooperated with [@haokaka](<https://github.com/haokaka>)*
 
 ## Workspace
 
