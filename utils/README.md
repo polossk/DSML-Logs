@@ -15,3 +15,9 @@ Providing some simple encapsulations of `pickle`.
 * `read_pickle(filename)`: import pickle-ed binary file `filename` to python object
 * `write_pickle(filename, pickled)`: save pickle-ed binary object `pickled` to file `filename`
 * `save_pickle(filename, var)`: save python object `var` to file `filename`
+
+## `xlsx_helper.py`
+
+Providing some simple tools of processing xlsx file
+
+* `def abc2dec(column_name)`: convert xlsx `column_name` (A, B, ..., Z, AA, AB, ...) to decimal number
