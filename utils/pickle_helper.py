@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'providing some simple encapsulations of `pickle`'
+
+__author__ = 'polossk'
+
 import pickle
 
 def read_pickle(filename):
