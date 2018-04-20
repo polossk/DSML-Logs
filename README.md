@@ -12,6 +12,7 @@
 
 Most useful utils of data processing.
 
+* `csv_helper.py`: providing some simple tools of processing csv file
 * `pickle_helper.py`: providing some simple encapsulations of `pickle`
 
 ## License

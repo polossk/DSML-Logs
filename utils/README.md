@@ -2,6 +2,12 @@
 
 most useful utils of data processing.
 
+## `csv_helper.py`
+
+Providing some simple tools of processing csv file
+
+* `write_csv(filename, data_table)`: write a `data_table` to csv file, where `data_table` formatted in `[[], [], ...]`
+
 ## `pickle_helper.py`
 
 Providing some simple encapsulations of `pickle`.
