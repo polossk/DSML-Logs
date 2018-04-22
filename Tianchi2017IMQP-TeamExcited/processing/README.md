@@ -9,7 +9,7 @@ TeamExcited of Tianchi Industrial AI Competition 2017: Intelligent Manufacturing
 Feature Selecting and Model Selecting
 
 * `feature_select.ipynb`: feature selecting
-* `grid_search_cv.ipynb`: grid search of hyper parameters of SVR, using 5-fold *c*ross *v*alidation
-* `grid_search_cv_xgboost.ipynb`: grid search of hyper parameters of XGBR, using 5-fold *c*ross *v*alidation
+* `grid_search_cv.ipynb`: grid search of hyper parameters of SVR, using 5-fold cross validation
+* `grid_search_cv_xgboost.ipynb`: grid search of hyper parameters of XGBR, using 5-fold cross validation
 * `prediction.ipynb`: generate the prediction of this job
 * `redo_feature_selection.ipynb`: redo feature selecting(another way)
